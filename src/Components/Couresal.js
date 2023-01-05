@@ -27,7 +27,7 @@ const Couresal = ({bgcolorgrey}) => {
         flexDirection: "column",
         alignItems: "center",
         // justifyContent: "space-evenly",
-        padding: "300px 0",
+        padding: "100px 0",
         backgroundColor: bgcolorgrey? "#EAEAEA82" :"white",
         width: "100%"
       }}
